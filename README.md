@@ -14,5 +14,3 @@ conda create -n interview_questions python=3.10 -y
 contact activate interview_questions
 
 ```
-
-3. 
